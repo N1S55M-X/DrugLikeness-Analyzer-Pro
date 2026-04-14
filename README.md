@@ -30,6 +30,15 @@ The analyzer utilizes verified thresholds from the following landmark studies:
 *   RDKit
 *   Matplotlib
 *   NumPy
+  
+## ⚠️ Medical Disclaimer
+
+**IMPORTANT: This software is a research and educational tool only.**
+
+*   **NOT FOR CLINICAL USE:** This application is designed for computational chemistry and early-stage drug discovery research. It does NOT provide medical advice, diagnosis, or treatment recommendations.
+*   **NOT A REPLACEMENT:** The results provided by this analyzer are theoretical predictions and should **never** be used as a replacement for professional medical consultation from a **qualified doctor**, pharmacist, or other licensed healthcare provider.
+*   **SAFETY WARNING:** Never use information from this tool to self-medicate or alter a prescribed treatment plan. Always consult a healthcare professional for any health-related concerns.
+*   **DATA LIMITATIONS:** Theoretical drug-likeness does not imply safety or efficacy in humans. Many "drug-like" molecules are toxic, and many "non-drug-like" molecules (like biologicals) are life-saving medicines.
 
 ### Installation
 ```bash
@@ -38,3 +47,4 @@ git clone https://github.com/N1S55M-X/DrugLikeness-Analyzer-Pro.git
 
 # Install dependencies
 pip install rdkit matplotlib numpy
+
