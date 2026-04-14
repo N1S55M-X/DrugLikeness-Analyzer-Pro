@@ -10,7 +10,6 @@ The tool features a **Radar Chart (Spider Plot)** visualization, allowing resear
 *   **Multi-Rule Assessment:** Simultaneous evaluation of Lipinski, Veber, Ghose, Egan, and Bostrom filters.
 *   **Dynamic Visualization:** Real-time Radar Chart generation using Matplotlib.
 *   **Weighted Scoring:** A global drug-likeness percentage based on research-driven weights.
-*   **Publication Ready:** High-resolution export functionality for figures (300 DPI).
 
 ## 🧪 Validated Medicinal Chemistry Filters
 
